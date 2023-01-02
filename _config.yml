@@ -1,6 +1,6 @@
 title: Quoc Dung Dam
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: Welcome to my Quoc Dung's portfolio
 show_downloads: true
-google_analytics:
+google_analytics:UA-000000-0 # Add Google Analytic to track 
 theme: jekyll-theme-minimal
